@@ -69,3 +69,4 @@ def solve_sudoku(sudoku):
 
 
 solve_sudoku(sudoku)
+format(sudoku)
